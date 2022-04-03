@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Myriad Pro Italic", "Sans-Serif";
-  --font-secondary: "Myriad Pro Italic", "Sans-Serif";
-  --font-code: "Myriad Pro Italic", "Sans-Serif";
+  --font-primary: "Helvetica", "Sans-Serif";
+  --font-secondary: "Helvetica", "Sans-Serif";
+  --font-code: "Helvetica", "Sans-Serif";
   --bg-color: #000000;
   --bg-color-transparent: #3b3b3b80;
   --font-color: #bd2a2a;
