@@ -6,8 +6,8 @@
 
 :root {
   --font-primary: "Helvetica", "sans-serif";
-  --font-secondary: "Helvetica", "sans-serif";
-  --font-code: "Helvetica", "sans-serif";
+  --font-secondary: "Roboto", "sans-serif";
+  --font-code: "Roboto", "sans-serif";
   --bg-color: #000000;
   --bg-color-transparent: #3b3b3b80;
   --font-color: #bd2a2a;
