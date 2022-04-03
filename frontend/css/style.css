@@ -84,10 +84,17 @@ header .container {
   font-size: 5rem;
 }
 
+.not-connected h2 {
+  text-shadow: 2px 2px 0 #000000;
+  margin: 2rem 0;
+  font-style: italic;
+  font-size: 5rem;
+}
 .not-connected p {
-  font-size: 1.1rem;
+  font-size: 2rem;
   font-family: var(--font-secondary);
   line-height: 1.8;
+  text-shadow: 2px 2px 0 #000000
 }
 
 .not-connected a {
