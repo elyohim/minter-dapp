@@ -8,7 +8,7 @@
   --font-primary: "Helvetica", "sans-serif";
   --font-secondary: "Roboto", "sans-serif";
   --font-code: "Roboto", "sans-serif";
-  --bg-color: #000000;
+  --bg-color: #70707075;
   --bg-color-transparent: #3b3b3b80;
   --font-color: #bd2a2a;
   --btn-bg-color: #5f5f5f;
@@ -210,7 +210,7 @@ section {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
   font-size: 1.1rem;
-  color: #80808088;
+  color: var(--bg-color);
   padding: 0.5rem 0.7rem;
   display: inline-block;
   width: 100%;
