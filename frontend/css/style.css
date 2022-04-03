@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Helvetica", "Sans-Serif";
-  --font-secondary: "Helvetica", "Sans-Serif";
-  --font-code: "Helvetica", "Sans-Serif";
+  --font-primary: "Poppins", "sans-serif";
+  --font-secondary: "Helvetica", "sans-serif";
+  --font-code: "Helvetica", "sans-serif";
   --bg-color: #000000;
   --bg-color-transparent: #3b3b3b80;
   --font-color: #bd2a2a;
