@@ -25,7 +25,7 @@
 
 body {
   background-image: url("https://images.hdqwalls.com/download/swan-digital-art-4k-bg-1920x1080.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
