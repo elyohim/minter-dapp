@@ -30,7 +30,7 @@
   min-height: 100%;
 }
 
-/* Add some content at the bottom of the video/page 
+/* Add some content at the bottom of the video/page */
 .content {
   position: fixed;
   bottom: 0;
@@ -38,20 +38,8 @@
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
-}*/
-/*body {
-  background-image: url("https://drive.google.com/uc?export=view&id=1ZUM-HkYALSFBj8TTWL7j0mYmt869z4DA");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: flex;
-  flex-flow: column;
-  height: 100vh;
-  color: var(--font-color);
-  font-family: var(--font-primary);
-  
 }
-*/
+
 .container {
   display: flex;
   flex-direction: column;
