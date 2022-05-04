@@ -45,11 +45,13 @@ body {
   overflow: hidden;
 }
 #myVideo {
-  position: fixed;
+  position: absolute;
   right: 0;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+  opacity: 0.8;
+  object-fit: cover;
 }
 
 /* HEADER */
