@@ -22,9 +22,17 @@
   margin: 0;
   box-sizing: border-box;
 }
+#myVideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
 
 body {
-  background-image: url("https://drive.google.com/uc?export=view&id=1ZUM-HkYALSFBj8TTWL7j0mYmt869z4DA");
+  background-image: var(--accent-color);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -43,15 +51,6 @@ body {
   padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
-}
-#myVideo {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-  opacity: 0.8;
-  object-fit: cover;
 }
 
 /* HEADER */
