@@ -22,13 +22,7 @@
   margin: 0;
   box-sizing: border-box;
 }
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-}
+
 body {
   background-image: url("https://drive.google.com/uc?export=view&id=1ZUM-HkYALSFBj8TTWL7j0mYmt869z4DA");
   background-size: cover;
@@ -49,6 +43,13 @@ body {
   padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 /* HEADER */
